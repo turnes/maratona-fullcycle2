@@ -1,0 +1,11 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio Número 1 - Maratona Fullcycle 2.0",
+  "main": "index.js",
+  "author": "Rafael Turnes Silveira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
